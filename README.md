@@ -1,9 +1,9 @@
 # wordpress-hizlandirma
 
 
-# ⚡ WordPress Hızlandırma Eklentisi
+# ⚡ WordPress Hızlandırma Eklentisi 
 
-Web sitenizi hızlandırın ve performansınızı zirveye taşıyın! **WordPress Hızlandırma Eklentisi** (WP Optimize), sitenizi optimize ederek yükleme sürelerini azaltır, kullanıcı deneyimini artırır ve arama motoru sıralamalarında yükselmenizi sağlar.
+Web sitenizi hızlandırın ve performansınızı zirveye taşıyın! **WordPress Hızlandırma Eklentisi** (Bu Repo sadece basit halidir. Ücretli sürüm için iletişime geçin.), sitenizi optimize ederek yükleme sürelerini azaltır, kullanıcı deneyimini artırır ve arama motoru sıralamalarında yükselmenizi sağlar.
 
 ---
 
